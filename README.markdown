@@ -10,6 +10,7 @@ The project is a simple multi-module Maven project. To build the whole project, 
 
 some changes
 some others changessss
+something happen
 
 ## Running the game#
 
